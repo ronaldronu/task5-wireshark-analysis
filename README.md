@@ -13,15 +13,15 @@ Capture and analyze network packets to identify key internet protocols.
 ## 📡 Identified Protocols
 1. **HTTP**
    - Website traffic request
-   - Example: `GET /index.html HTTP/1.1`
+   - `GET /index.html HTTP/1.1`
 
 2. **DNS**
    - Resolves domain names
-   - Example: `A google.com → 142.250.190.78`
+   - `A google.com → 142.250.66.14`
 
 3. **TCP**
    - Used for reliable connections
-   - Example: `SYN → SYN-ACK → ACK`
+   - `SYN → SYN-ACK → ACK`
 
 ## 📂 Files Included
 - `screenshots'
